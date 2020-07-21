@@ -1,0 +1,50 @@
+Que.1.What is Python?What are the ways to install python in your PC ?
+ans:
+Python:
+Python Programming Language
+Python is a high-level, general-purpose and a very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting edge technology in Software Industry. Python Programming Language is very well suited for Beginners, also for experienced programmers with other programming languages like C++ and Java.
+Below are some facts about Python Programming Language:
+Python is currently the most widely used multi-purpose, high-level programming language.
+Python allows programming in Object-Oriented and Procedural paradigms.
+Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.
+Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
+The biggest strength of Python is huge collection of standard library which can be used for the following:
+*Machine Learning
+*GUI Applications (like Kivy, Tkinter, PyQt etc. )
+*Web frameworks like Django (used by YouTube, Instagram, Dropbox)
+*Image processing (like OpenCV, Pillow)
+*Web scraping (like Scrapy, BeautifulSoup, Selenium)
+*Test frameworks
+*Multimedia
+*Scientific computing
+*Text processing and many more..
+
+**Ways to install python in your PC:
+There are 3ways to install python in your PC.
+1.Installing python 3
+Go to https://www.python.org/downloads. The most recent version of Python will always appear on the "Download" button near the top of the page.
+2.Installing python 2
+Go to https://www.python.org/downloads in a web browser. Use this method if you want to write code in Python 2 instead of (or in addition to) Python 3 in Windows.
+3.Adding the python path to windows
+Press ⊞ Win+R to open the Run dialog. Use this method if you're installing an older version or see the "python is not recognized as an internal or external command" error when trying to use Python.
+**********
+Que.2.What are Code Environment? Types?
+Ans:
+Code environment:
+A code environment is a standalone and self-contained environment to run Python or R code.Each code environment has its own set of packages. Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them. In the case of Python environments, each environment may also use its own version of Python. You can for example have one environment running Python 2.7 and one running Python 3.6
+In each location where you can run Python or R code, you can select which code environment to use.
+Types:
+1.PyCharm:
+PyCharm is one of the widely used Python IDE which was created by Jet Brains. It is one of the best IDE for Python. PyCharm is all a developer’s need for productive Python development.
+2.SPYDER:
+SPYDER is another big name in the IDE market. It is a good python compiler.
+
+It is famous for python development. It was mainly developed for scientists and engineers to provide a powerful scientific environment for Python. It offers an advanced level of edit, debug, and data exploration feature. It is very extensible and has a good plugin system and API.
+3.Atom:
+Atom is a free source code editor and is basically a desktop application which is built through a web technology having plugin support that is developed in Node.js.
+4.Visual Studio Code:
+Visual Studio Code is an open source code editor which was developed mainly for the development and debugging of latest web and cloud projects.
+It is capable of combining both editor and good development features very smoothly. It is one of the major choices for python developers.
+5.IDLE:
+IDLE is a popular Integrated Development Environment written in Python and it has been integrated with the default language. It is one of the best IDE for python.
+*************
